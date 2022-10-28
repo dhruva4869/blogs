@@ -1,0 +1,25 @@
+.bg-primary{
+background:#283538!important;
+}
+
+.bg-secondary{
+background:#24282f!important;
+}
+
+.bg-tri{
+background:#444e5b;
+}
+
+body {
+background-color: #097681;
+}
+
+
+.mt20{
+margin-top:20px;
+}
+
+.container-custom{
+width:95%!important;
+margin:auto;
+}
